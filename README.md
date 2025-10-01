@@ -29,16 +29,6 @@ npm install @reduxjs/toolkit react-redux axios dayjs i18next react-i18next @mui/
 
 ---
 
-Project Structure
-
-src/
-│── App.js
-│── index.js
-│── store.js
-│── weatherAPISlice.js
-│── MainPage.js
-│── i18n.js
-│── App.css / index.css
 
 
 
@@ -219,4 +209,3 @@ Next Steps
 
 ---
 
-<img src="./App Screenshot" alt="App Screenshot" width="500"/>
